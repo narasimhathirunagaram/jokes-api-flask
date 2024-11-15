@@ -19,6 +19,11 @@ Flask
 SQLAlchemy
 Requests library
 
+## Setup and Run Instructions
+Cloning the Repository :
+To clone this repository, open your terminal and run the following command:
+git clone <repository_url>
+
 Create a virtual environment:
 python3 -m venv venv 
 
